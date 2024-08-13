@@ -36,7 +36,7 @@ function checkInput() {
             checkInput();
         })
 
-//when socket open
+//when socket open 
 socket.onopen = (event) =>{
     console.log("socket connected")
     //sending message
