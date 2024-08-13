@@ -1,0 +1,12 @@
+.card-body {
+    height: calc(100vh - 350px); /* adjust the height to your liking */
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+body {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}

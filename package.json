@@ -1,0 +1,17 @@
+{
+  "name": "accountless_rtc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "pug": "^3.0.3",
+    "ws": "^8.18.0"
+  }
+}
